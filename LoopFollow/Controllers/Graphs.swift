@@ -301,7 +301,7 @@ extension MainViewController {
         lineBasal.setColor(NSUIColor.systemBlue, alpha: 0.5)
         lineBasal.lineWidth = 0
         lineBasal.drawFilledEnabled = true
-        lineBasal.fillColor = NSUIColor.systemBlue
+        lineBasal.fillColor = NSUIColor.systemPink
         lineBasal.fillAlpha = 0.5
         lineBasal.drawCirclesEnabled = false
         lineBasal.axisDependency = YAxis.AxisDependency.left
